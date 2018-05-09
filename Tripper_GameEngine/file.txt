@@ -1,0 +1,11 @@
+Transform
+100.0 0.0
+Sprite
+..\\Resources\\circ1.bmp
+Controller
+20
+Body
+0
+Rectangle
+227 233
+

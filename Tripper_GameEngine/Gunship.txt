@@ -1,0 +1,8 @@
+Transform
+1.0 1.0 0.0
+Sprite
+GunshipVertices.txt
+Body
+1
+Rectangle
+0.2 1.996

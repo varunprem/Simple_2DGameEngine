@@ -1,0 +1,9 @@
+Transform
+600.0 400.0
+Sprite
+..\\Resources\\test2.bmp
+Body
+0
+Rectangle
+227 233
+

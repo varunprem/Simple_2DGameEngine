@@ -1,0 +1,10 @@
+DRONEDOWN
+0.005 0.005
+Transform
+2.0 2.0 0.0
+Sprite
+DroneShape3.txt
+Body
+1
+Rectangle
+0.452 0.14

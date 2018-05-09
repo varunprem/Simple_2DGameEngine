@@ -1,0 +1,84 @@
+﻿  AudioManger.cpp
+  Body.cpp
+  CollisionManager.cpp
+  Controller.cpp
+  DroneLowerDiagonal.cpp
+  DroneUpperDiagonal.cpp
+  EventManager.cpp
+  FrameRateController.cpp
+  GameObjectInstance.cpp
+  GameObjectManager.cpp
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\controller.cpp(95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\controller.cpp(96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\controller.cpp(134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\controller.cpp(135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\controller.cpp(157): warning C4474: 'fscanf' : too many arguments passed for format string
+  c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\controller.cpp(157): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\body.cpp(36): warning C4474: 'fscanf' : too many arguments passed for format string
+  c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\body.cpp(36): note: placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+  InputManager.cpp
+  KillShot.cpp
+  Matrix2D.cpp
+  Main.cpp
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\matrix2d.cpp(129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\matrix2d.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\matrix2d.cpp(147): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\matrix2d.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\matrix2d.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Math2D.cpp
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\math2d.cpp(12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\math2d.cpp(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\math2d.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\math2d.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  matrix.cpp
+  MiniFollowDrones.cpp
+  PhysicsManager.cpp
+  ResourceManager.cpp
+  SentinelEnemy.cpp
+  Sprite.cpp
+  Transform.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition (compiling source file Main.cpp)
+  c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\dependencies\glfw\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY' (compiling source file Main.cpp)
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\sprite.h(23): warning C4005: 'MAX_VERTICES': macro redefinition (compiling source file Main.cpp)
+  c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\meshinstance.h(16): note: see previous definition of 'MAX_VERTICES' (compiling source file Main.cpp)
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\killshot.cpp(133): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\killshot.cpp(134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\killshot.cpp(104): warning C4101: 'angle': unreferenced local variable
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\main.cpp(197): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\minifollowdrones.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\minifollowdrones.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\minifollowdrones.cpp(37): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\minifollowdrones.cpp(38): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\physicsmanager.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\sentinelenemy.cpp(62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\sentinelenemy.cpp(63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\sprite.cpp(282): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\sprite.cpp(283): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\sprite.cpp(343): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  UpDownMove.cpp
+  Vector2D.cpp
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\vector2d.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\vector2d.cpp(97): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\vector2d.cpp(115): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\vector2d.cpp(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\vector2d.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\vector2d.cpp(156): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\vector2d.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varun\desktop\gameengine\varundev\tripper_gameengine\tripper_gameengine\vector2d.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\varun\Desktop\GameEngine\varundev\Tripper_GameEngine\Tripper_GameEngine\Debug\Game Engine.lib and object C:\Users\varun\Desktop\GameEngine\varundev\Tripper_GameEngine\Tripper_GameEngine\Debug\Game Engine.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+Sprite.obj : warning LNK4049: locally defined symbol ___glewActiveTexture imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewDeleteBuffers imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewGenerateMipmap imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewBindVertexArray imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewDeleteVertexArrays imported
+Sprite.obj : warning LNK4049: locally defined symbol ___glewGenVertexArrays imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\varun\Desktop\GameEngine\varundev\Tripper_GameEngine\Tripper_GameEngine\Debug\vc120.pdb'; linking object as if no debug info
+  Game Engine.vcxproj -> C:\Users\varun\Desktop\GameEngine\varundev\Tripper_GameEngine\Tripper_GameEngine\Debug\Game Engine.exe

@@ -1,0 +1,4 @@
+Transform
+2.0 2.0 0.0
+Sprite
+BaseVertices2.txt

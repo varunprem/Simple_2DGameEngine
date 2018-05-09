@@ -1,0 +1,10 @@
+Transform
+1.0 1.0 0.0
+Sprite
+Dan_vertices.txt
+Controller
+0.2
+Body
+1
+Rectangle
+0.2 0.2 

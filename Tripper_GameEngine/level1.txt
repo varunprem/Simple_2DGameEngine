@@ -1,0 +1,78 @@
+NightSky
+NightSky.txt
+0.0 0.0
+SkyboxScroll
+SkyboxScroll.txt
+0.0 0.0
+SkyboxScroll
+SkyboxScroll.txt
+2.0425 0.0
+Bullet
+Bullet.txt
+100 100
+KillShot
+KillShot.txt
+100 100
+Gunship
+Gunship.txt
+-0.8 0
+Shield
+Shield.txt
+-0.8 0
+DanJonesBody
+DanJonesBody.txt
+-0.75 0.04
+Dan
+DanJones.txt
+-0.75 0
+Sentinel_Bullet
+Sentinel_Bullet.txt
+100.0 100.0
+Drones
+Drones.txt
+1.0 0.0
+Drones
+Drones.txt
+1.0 0.15
+Drones
+Drones.txt
+1.0 -0.15
+Drones
+Drones.txt
+1.0 0.30
+Drones
+Drones.txt
+1.0 -0.30
+Drones
+Drones3.txt
+1.2 0.8 30
+Drones
+Drones2.txt
+1.2 -0.8 -30
+Drones
+Drones_2.txt
+1.4 0
+Drones
+Drones_3.txt
+1.6 0  
+Sentinel
+Sentinel.txt
+1.4 0.0
+FollowDrones
+FollowDrones.txt
+0.9 0.9
+FollowDrones
+FollowDrones.txt
+1.0 -0.9
+FollowDrones
+FollowDrones.txt
+0.7 -0.9
+FollowDrones
+FollowDrones.txt
+0.6  0.9
+HealthBarBase
+Base.txt
+0.5 0.97
+HealthBarBase
+Base2.txt
+0.5 0.97
